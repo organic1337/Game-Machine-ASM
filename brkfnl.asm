@@ -1,4 +1,4 @@
-
+;final breakout version
 IDEAL
 MODEL small
 STACK 100h
