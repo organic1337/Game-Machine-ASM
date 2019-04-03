@@ -4,6 +4,7 @@
 </p>
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/organic5?locale.x=en_US)
+![GitHub release](https://img.shields.io/github/release/Gangana3/Game-Machine-ASM.svg)
 
 Game Machine is basically a DosBox game, written purely in Assembly 8086. In order to try out the game you should run the GM.exe file
 through the DosBox (I recommend you to set the cycles to 4500 for best experience). The Game Machine contains 3 mini games:
