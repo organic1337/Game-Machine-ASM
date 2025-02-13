@@ -3,7 +3,6 @@
  <img src="https://i.imgur.com/rKbAzs5.png" alt="Game Machine Logo" Height="136" Width="407"/>
 </p>
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/organic5?locale.x=en_US)
 [![GitHub release](https://img.shields.io/github/release/Gangana3/Game-Machine-ASM.svg)](https://github.com/Gangana3/Game-Machine-ASM/releases)
 
 Game Machine is basically a DosBox game, written purely in Assembly 8086. In order to try out the game you should run the GM.exe file
